@@ -32,3 +32,23 @@ Using the insights from your analysis, design a comprehensive dashboard. The das
 
 To enhance the analysis, incorporate additional data from my own research. This will help you provide more comprehensive recommendations and deeper insights.
 
+
+## Data Model
+![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/01.%20Data%20Model.png)
+
+
+## Landing Page
+![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/02.%20Landing%20Page.png)
+
+
+## General View
+![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/03.%20General%20View.png)
+
+
+## Makers Analysis
+![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/04.%20Makers%20Analysis.png)
+
+
+## State Analysis
+![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/05.%20State%20Analysis.png)
+
