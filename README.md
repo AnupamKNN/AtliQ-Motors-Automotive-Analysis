@@ -52,3 +52,41 @@ To enhance the analysis, incorporate additional data from my own research. This 
 ## State Analysis
 ![](https://github.com/AnupamKNN/AtliQ-Motors-Automotive-Analysis/blob/main/Resources/05.%20State%20Analysis.png)
 
+
+## Insights
+
+### Primary Research Questions
+
+Q1. List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
+
+Ans. 
+
+A.  Top 3 Two Wheeler Makers FY-2023:
+
+- Ola Electric - 152583K 2-wheelers sold
+- Okinawa Motors - 96945K 2-wheelers sold
+- Hero Electric - 88993K 2-wheelers sold
+
+B. Bottom 3 Two Wheeler Makers FY-2023:
+
+- Pure EV - 11556 2-wheelers sold
+- Being Motors - 11018 2-wheelers sold
+- Jitendra Electric Vehicles - 8563 2-wheelers sold
+
+C. Top 3 Two Wheeler Makers FY-2024:
+
+- Ola Electric - 322489 2-wheelers sold
+- TVS Motors - 180743 2-wheelers sold
+- Ather Energy - 107552 2-wheelers sold
+
+D. Bottom 3 Two Wheeler Makers FY-2024:
+
+- Kinetic Green - 9585 2-wheelers sold
+- Revolt Motors - 7254 2-wheelers sold
+- Battre Electric - 4841 2-wheelers sold
+
+
+Q2. Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
+
+Ans. 
+
